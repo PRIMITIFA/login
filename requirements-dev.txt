@@ -1,0 +1,9 @@
+# Development dependencies with specific versions to resolve DLL issues
+PyQt6==6.4.0
+PyQt6-Qt6==6.4.0
+PyQt6-sip==13.4.0
+supabase==1.0.3
+python-dotenv==1.0.0
+keyring==24.2.0
+cryptography==41.0.3
+pyinstaller==6.0.0

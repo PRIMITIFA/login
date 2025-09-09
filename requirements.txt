@@ -1,0 +1,7 @@
+supabase==1.0.3
+PyQt6==6.5.0
+PyQt6-WebEngine==6.5.0
+python-dotenv==1.0.0
+keyring==24.2.0
+cryptography==41.0.3
+pyinstaller==6.0.0

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="90" fill="#1a1a1a" stroke="#3a86ff" stroke-width="5"/>
+  <text x="100" y="85" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="#ffffff" text-anchor="middle">CS2</text>
+  <text x="100" y="125" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="#3a86ff" text-anchor="middle">TOOL</text>
+</svg>
